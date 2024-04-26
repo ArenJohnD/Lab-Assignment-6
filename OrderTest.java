@@ -1,5 +1,3 @@
-package LabAss6;
-
 public class OrderTest {
 
     public static void main(String[] args) {
