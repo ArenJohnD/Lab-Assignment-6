@@ -2,6 +2,7 @@
 
 **Improve the following codes to implement SOLID principles in OOP.**
 
+```
 public interface Order {
 
   void calculateTotal(double price, int quantity);
@@ -12,7 +13,9 @@ public interface Order {
 
   void sendEmailNotification(String email);
 }
+```
 
+```
 public class OrderAction implements Order {
 
   @Override
@@ -40,6 +43,9 @@ public class OrderAction implements Order {
   }
 }
 
+```
+
+```
 public class OrderTest {
 
   public static void main(String[] args) {
@@ -52,3 +58,4 @@ public class OrderTest {
     order.sendEmailNotification("johndoe@example.com");
   }
 }
+```
