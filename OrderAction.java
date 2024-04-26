@@ -1,4 +1,4 @@
-public class OrderAction implements Generatable, Orderable, Sendable {
+public class OrderAction implements Orderable, Generatable, Sendable {
 
     @Override
     public void calculateTotal(double price, int quantity) {
