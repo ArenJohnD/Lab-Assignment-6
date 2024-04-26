@@ -1,5 +1,3 @@
-package LabAss6;
-
 public class OrderAction implements Generatable, Orderable, Sendable {
 
     @Override
