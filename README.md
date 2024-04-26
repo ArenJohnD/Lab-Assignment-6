@@ -59,3 +59,5 @@ public class OrderTest {
   }
 }
 ```
+**UML CLASS DIAGRAM**
+![image](https://github.com/ArenJohnD/Lab-Assignment-6/assets/152838648/b85c129a-fa3f-4830-bc4d-8a530f6e323b)
