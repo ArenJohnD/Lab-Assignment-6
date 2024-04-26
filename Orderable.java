@@ -1,5 +1,3 @@
-package LabAss6;
-
 public interface Orderable {
     void calculateTotal(double price, int quantity);
 
