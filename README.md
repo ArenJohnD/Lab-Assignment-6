@@ -1,6 +1,4 @@
-# Lab-Assignment-6
-
-**Improve the following codes to implement SOLID principles in OOP.**
+###**Improve the following codes to implement SOLID principles in OOP.**
 
 ```
 public interface Order {
@@ -60,6 +58,6 @@ public class OrderTest {
 }
 ```
 
-## **UML Class Diagram:**
+### **UML Class Diagram:**
 ![image](https://github.com/ArenJohnD/Lab-Assignment-6/assets/152838648/f3335b1f-ba6f-4b4b-bf0e-f2c12cdd969a)
 
